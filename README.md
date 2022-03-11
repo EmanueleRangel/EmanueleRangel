@@ -1,8 +1,8 @@
 # Hello, World! I'm Manu 🌎
 
-![bannergit](https://uploaddeimagens.com.br/images/003/766/556/full/bannergit.png?1647012329)
+![bannergit](https://uploaddeimagens.com.br/images/003/767/600/original/bannergit.png?1647030672)
 
->My name is Emanuele but you can call me Manu. I am a computer technician and a systems analysis and development student. Passionate about **technology** and its impact on **society**. Currently developing myself to become a backend developer.
+>My name is Emanuele but you can call me Manu. I am a computer technician and a systems analysis and development student. Passionate about **technology** and its impact on **society**. Currently developing myself to become a software developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-rangel-7b50971b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuele.rangel52@gmail.com)
