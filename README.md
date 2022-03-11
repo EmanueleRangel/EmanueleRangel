@@ -1,6 +1,6 @@
 # Hello, World! I'm Manu 😄
 
-![bannergit.png](https://raw.githubusercontent.com/EmanueleRangel/EmanueleRangel/main/.github/images/bannergit.png]
+![bannergit](https://uploaddeimagens.com.br/images/003/766/556/full/bannergit.png?1647012329)
 
 My name is Emanuele but you can call me Manu. I am a computer technician and a systems analysis and development student. Passionate about technology and its impact on society. Currently developing myself to become a backend developer.
 
