@@ -2,7 +2,7 @@
 
 ![bannergit](https://uploaddeimagens.com.br/images/003/767/600/original/bannergit.png?1647030672)
 
->My name is Emanuele but you can call me Manu. I am a computer technician and a systems analysis and development student. Passionate about **technology** and its impact on **society**. Currently developing myself to become a software developer.
+>My name is Emanuele but you can call me Manu. I am a back-end developer and a systems analysis and development student. Passionate about **technology** and its impact on **society**. Always developing myself to become a better software developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-rangel-7b50971b8/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emanuele.rangel52)
