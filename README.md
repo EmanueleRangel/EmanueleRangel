@@ -1,6 +1,6 @@
 # Hello, World! I'm Manu 🌎
 
-![bannergit](https://uploaddeimagens.com.br/images/003/767/600/original/bannergit.png?1647030672)
+![bannergit](https://uploaddeimagens.com.br/images/003/877/274/original/linkedinheaders-desktop.jpg?1653168966)
 
 >My name is Emanuele but you can call me Manu. I am a back-end developer and a systems analysis and development student. Passionate about **technology** and its impact on **society**. Always developing myself to become a better software developer.
 
